@@ -9,7 +9,7 @@ To use this as your profile README:
 Delete this comment block before publishing.
 -->
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I am Anjali</h1>
 <h3 align="center">A short tagline about what you do — e.g. "Full-Stack Developer | Open Source Enthusiast"</h3>
 
 <!-- 
